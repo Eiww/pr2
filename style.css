@@ -112,7 +112,7 @@
 .items-list {
   display: flex;
   justify-content: center;
-  margin-left: 35px;
-  margin-right: 35px;
+  margin-left: 125px;
+  margin-right: 125px;
   padding: 15px;
 }
